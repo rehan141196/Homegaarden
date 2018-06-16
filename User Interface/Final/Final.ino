@@ -30,8 +30,8 @@ int analogBufferIndex = 0,copyIndex = 0;
 float averageVoltage = 0,tdsValue = 0,temperature = 25;
 
 char auth[] = "49c87a5c009f4a9a950443f80434c73b";
-char ssid[] = "Apt_4126";
-char pass[] = "TheGlendon4126";
+char ssid[] = "Shounak's iPhone";
+char pass[] = "Ramukaka";
 
 DHT dht(DHTPIN, DHTTYPE);
 BlynkTimer timer;
